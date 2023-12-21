@@ -5,7 +5,7 @@ export const projects = [
     description:
       "An Android mobile app that allows users to select a mood, which then provides a list of songs, artists, and albums that correspond to their mood. The Spotify API was used.",
     technology: ["Java, Android Studio"],
-    image: "./MoodifySnap.png",
+    image: "./MoodifySnap.PNG",
     link: "https://github.com/Jonesy22/Spotify-Music-Recommendation-App",
   },
   {
