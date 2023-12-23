@@ -31,5 +31,4 @@ export const projects = [
     image: "./othello.png",
     link: "https://github.com/Jonesy22/Othello",
   },
-
 ];
