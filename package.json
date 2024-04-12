@@ -1,11 +1,12 @@
 {
-  "name": "my-portfolio",
-  "homepage": "https://www.danielmcjones.com",
+  "name": "ellie-birthday",
+  "homepage": "jonesy22.github.io/ellie-birthday/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@craco/craco": "^5.9.0",
     "@heroicons/react": "^1.0.1",
+    "browserslist": "^4.23.0",
     "gh-pages": "^6.1.0",
     "nvm": "^0.0.4",
     "react": "^17.0.2",
